@@ -1,6 +1,6 @@
 git config --global user.name "ehtisham"
 git config --global user.email "ehtisham.haq@brainplow.com"
-
+password 90000456
 Create a new repository
 
 git clone http://git.brainwade.com/Ehtisham/rfp.git
